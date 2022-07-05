@@ -33,6 +33,14 @@ This README describes how I have setup my terminal and zsh. This document assume
   - `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
 - zsh plugins
+  - Most zsh plugins do not require any additional installations. In addition to the three plugins below (that do require installations), I also use
+    - [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
+    - [sudo](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/sudo)
+    - [copypath](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/copypath)
+    - [copyfile](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/copyfile)
+    - [web-search](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/web-search)
+    - [history](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history)
+  
   - [zsh-completions](https://github.com/zsh-users/zsh-completions)
     - ` git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions`
 
