@@ -23,7 +23,7 @@ This README describes how I have setup my terminal and zsh. This document assume
       - Font: Use ligatures
     - Profiles > Window
       - Transparency: 5
-      - Blue: 10
+      - Blur: 10
     - Profiles > Session > Configure Status Bar
       - Status bar enabled
       - Choose whatever you want for status bar things...
